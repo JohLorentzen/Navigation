@@ -1,6 +1,6 @@
 # Navigation
 
-git remote add origin git@github.com:JohLorentzen/webShop.git
+git remote add origin git@github.com:JohLorentzen/Navigation.git
 
 git branch -M main
 
